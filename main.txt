@@ -6,3 +6,4 @@ pint(a)
 
 d = a++
 print(d)
+e = d+c
